@@ -1,0 +1,139 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/kyongh/A6_P1_Kim_YongHwan/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/kyongh/A6_P1_Kim_YongHwan/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/kyongh/A6_P1_Kim_YongHwan/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/kyongh/A6_P1_Kim_YongHwan/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/kyongh/.gradle/caches/transforms-2/files-2.1/5f6ff36f6ac1d4c56d225908a40e019d/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.1.0] /Users/kyongh/.gradle/caches/transforms-2/files-2.1/b5e714c9f23814118f5923700fb1c1b2/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/kyongh/.gradle/caches/transforms-2/files-2.1/e970be6786dafafcd90cf3658c81458f/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/kyongh/.gradle/caches/transforms-2/files-2.1/6ef249af2bd7ca278b4d423088d5f404/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/kyongh/.gradle/caches/transforms-2/files-2.1/0e0b159c54d5dc39ab0a167dc69243ed/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/kyongh/.gradle/caches/transforms-2/files-2.1/000e87e72a38b6d4b9baffb617bbd615/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/kyongh/.gradle/caches/transforms-2/files-2.1/ebf1e2f99aade8ae95c64ea910096ad7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/kyongh/.gradle/caches/transforms-2/files-2.1/11eb550922312b958db17505ac02f3a1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/kyongh/.gradle/caches/transforms-2/files-2.1/eba0942c3db488025e6bb6dfb2500a7c/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/kyongh/.gradle/caches/transforms-2/files-2.1/5b4ce60d2ac97244238e636c03dfdf27/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/kyongh/.gradle/caches/transforms-2/files-2.1/fd85ff4dd96a873541b1e45d6dd772d2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/kyongh/.gradle/caches/transforms-2/files-2.1/ab8adf22f1f802ae7d0bf4ef2f719e7d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] /Users/kyongh/.gradle/caches/transforms-2/files-2.1/557dea9a9008ada6a9958b91361ec09b/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/kyongh/.gradle/caches/transforms-2/files-2.1/3833fb40d7e3f9328937e2922bd489c0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/kyongh/.gradle/caches/transforms-2/files-2.1/5fd4accbb6540c25dd52cf436b2b86f3/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/kyongh/.gradle/caches/transforms-2/files-2.1/0abb5d3a5a8aa6ac622f08ec178a247e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/kyongh/.gradle/caches/transforms-2/files-2.1/19dfe1cbf5705029b86ec153e4aa14df/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/kyongh/.gradle/caches/transforms-2/files-2.1/a2409ab8d5b3c117a242e8e63c2f6c17/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/kyongh/.gradle/caches/transforms-2/files-2.1/b5a604332d3ce6177111de55a992a00e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/kyongh/.gradle/caches/transforms-2/files-2.1/b9b57a2a5ff2c443e7f3f1ba91b1d174/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/kyongh/.gradle/caches/transforms-2/files-2.1/b3a6f1378eb986e2c4e314693e79e89e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/kyongh/.gradle/caches/transforms-2/files-2.1/5f8890437dcda2e68e51ba4c89692704/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/kyongh/A6_P1_Kim_YongHwan/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/kyongh/A6_P1_Kim_YongHwan/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/kyongh/A6_P1_Kim_YongHwan/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /Users/kyongh/A6_P1_Kim_YongHwan/app/src/main/AndroidManifest.xml:3:11-51
+		INJECTED from /Users/kyongh/A6_P1_Kim_YongHwan/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kyongh/A6_P1_Kim_YongHwan/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/kyongh/A6_P1_Kim_YongHwan/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kyongh/A6_P1_Kim_YongHwan/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/kyongh/A6_P1_Kim_YongHwan/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/kyongh/A6_P1_Kim_YongHwan/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kyongh/A6_P1_Kim_YongHwan/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/kyongh/A6_P1_Kim_YongHwan/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/kyongh/A6_P1_Kim_YongHwan/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/kyongh/A6_P1_Kim_YongHwan/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/kyongh/.gradle/caches/transforms-2/files-2.1/e970be6786dafafcd90cf3658c81458f/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/kyongh/.gradle/caches/transforms-2/files-2.1/e970be6786dafafcd90cf3658c81458f/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.1.0] /Users/kyongh/.gradle/caches/transforms-2/files-2.1/557dea9a9008ada6a9958b91361ec09b/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /Users/kyongh/.gradle/caches/transforms-2/files-2.1/557dea9a9008ada6a9958b91361ec09b/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/kyongh/.gradle/caches/transforms-2/files-2.1/5fd4accbb6540c25dd52cf436b2b86f3/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/kyongh/.gradle/caches/transforms-2/files-2.1/5fd4accbb6540c25dd52cf436b2b86f3/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /Users/kyongh/.gradle/caches/transforms-2/files-2.1/557dea9a9008ada6a9958b91361ec09b/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/kyongh/A6_P1_Kim_YongHwan/app/src/main/AndroidManifest.xml:10:13-39
+	android:label
+		ADDED from /Users/kyongh/A6_P1_Kim_YongHwan/app/src/main/AndroidManifest.xml:8:13-45
+	android:roundIcon
+		ADDED from /Users/kyongh/A6_P1_Kim_YongHwan/app/src/main/AndroidManifest.xml:9:13-58
+	android:icon
+		ADDED from /Users/kyongh/A6_P1_Kim_YongHwan/app/src/main/AndroidManifest.xml:7:13-47
+	android:allowBackup
+		ADDED from /Users/kyongh/A6_P1_Kim_YongHwan/app/src/main/AndroidManifest.xml:6:13-39
+	android:theme
+		ADDED from /Users/kyongh/A6_P1_Kim_YongHwan/app/src/main/AndroidManifest.xml:11:13-44
+activity#com.example.a6_p1_kim_yonghwan.MainActivity
+ADDED from /Users/kyongh/A6_P1_Kim_YongHwan/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /Users/kyongh/A6_P1_Kim_YongHwan/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/kyongh/A6_P1_Kim_YongHwan/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/kyongh/A6_P1_Kim_YongHwan/app/src/main/AndroidManifest.xml:14:17-68
+	android:name
+		ADDED from /Users/kyongh/A6_P1_Kim_YongHwan/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/kyongh/A6_P1_Kim_YongHwan/app/src/main/AndroidManifest.xml:16:17-76
+	android:name
+		ADDED from /Users/kyongh/A6_P1_Kim_YongHwan/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /Users/kyongh/A6_P1_Kim_YongHwan/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/kyongh/A6_P1_Kim_YongHwan/app/src/main/AndroidManifest.xml
+INJECTED from /Users/kyongh/A6_P1_Kim_YongHwan/app/src/main/AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/kyongh/.gradle/caches/transforms-2/files-2.1/5f6ff36f6ac1d4c56d225908a40e019d/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/kyongh/.gradle/caches/transforms-2/files-2.1/5f6ff36f6ac1d4c56d225908a40e019d/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.1.0] /Users/kyongh/.gradle/caches/transforms-2/files-2.1/b5e714c9f23814118f5923700fb1c1b2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.1.0] /Users/kyongh/.gradle/caches/transforms-2/files-2.1/b5e714c9f23814118f5923700fb1c1b2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/kyongh/.gradle/caches/transforms-2/files-2.1/e970be6786dafafcd90cf3658c81458f/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/kyongh/.gradle/caches/transforms-2/files-2.1/e970be6786dafafcd90cf3658c81458f/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/kyongh/.gradle/caches/transforms-2/files-2.1/6ef249af2bd7ca278b4d423088d5f404/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/kyongh/.gradle/caches/transforms-2/files-2.1/6ef249af2bd7ca278b4d423088d5f404/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/kyongh/.gradle/caches/transforms-2/files-2.1/0e0b159c54d5dc39ab0a167dc69243ed/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/kyongh/.gradle/caches/transforms-2/files-2.1/0e0b159c54d5dc39ab0a167dc69243ed/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/kyongh/.gradle/caches/transforms-2/files-2.1/000e87e72a38b6d4b9baffb617bbd615/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/kyongh/.gradle/caches/transforms-2/files-2.1/000e87e72a38b6d4b9baffb617bbd615/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/kyongh/.gradle/caches/transforms-2/files-2.1/ebf1e2f99aade8ae95c64ea910096ad7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/kyongh/.gradle/caches/transforms-2/files-2.1/ebf1e2f99aade8ae95c64ea910096ad7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/kyongh/.gradle/caches/transforms-2/files-2.1/11eb550922312b958db17505ac02f3a1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/kyongh/.gradle/caches/transforms-2/files-2.1/11eb550922312b958db17505ac02f3a1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/kyongh/.gradle/caches/transforms-2/files-2.1/eba0942c3db488025e6bb6dfb2500a7c/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/kyongh/.gradle/caches/transforms-2/files-2.1/eba0942c3db488025e6bb6dfb2500a7c/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/kyongh/.gradle/caches/transforms-2/files-2.1/5b4ce60d2ac97244238e636c03dfdf27/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/kyongh/.gradle/caches/transforms-2/files-2.1/5b4ce60d2ac97244238e636c03dfdf27/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/kyongh/.gradle/caches/transforms-2/files-2.1/fd85ff4dd96a873541b1e45d6dd772d2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/kyongh/.gradle/caches/transforms-2/files-2.1/fd85ff4dd96a873541b1e45d6dd772d2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/kyongh/.gradle/caches/transforms-2/files-2.1/ab8adf22f1f802ae7d0bf4ef2f719e7d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/kyongh/.gradle/caches/transforms-2/files-2.1/ab8adf22f1f802ae7d0bf4ef2f719e7d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] /Users/kyongh/.gradle/caches/transforms-2/files-2.1/557dea9a9008ada6a9958b91361ec09b/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/kyongh/.gradle/caches/transforms-2/files-2.1/557dea9a9008ada6a9958b91361ec09b/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/kyongh/.gradle/caches/transforms-2/files-2.1/3833fb40d7e3f9328937e2922bd489c0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/kyongh/.gradle/caches/transforms-2/files-2.1/3833fb40d7e3f9328937e2922bd489c0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/kyongh/.gradle/caches/transforms-2/files-2.1/5fd4accbb6540c25dd52cf436b2b86f3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/kyongh/.gradle/caches/transforms-2/files-2.1/5fd4accbb6540c25dd52cf436b2b86f3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/kyongh/.gradle/caches/transforms-2/files-2.1/0abb5d3a5a8aa6ac622f08ec178a247e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/kyongh/.gradle/caches/transforms-2/files-2.1/0abb5d3a5a8aa6ac622f08ec178a247e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/kyongh/.gradle/caches/transforms-2/files-2.1/19dfe1cbf5705029b86ec153e4aa14df/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/kyongh/.gradle/caches/transforms-2/files-2.1/19dfe1cbf5705029b86ec153e4aa14df/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/kyongh/.gradle/caches/transforms-2/files-2.1/a2409ab8d5b3c117a242e8e63c2f6c17/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/kyongh/.gradle/caches/transforms-2/files-2.1/a2409ab8d5b3c117a242e8e63c2f6c17/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/kyongh/.gradle/caches/transforms-2/files-2.1/b5a604332d3ce6177111de55a992a00e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/kyongh/.gradle/caches/transforms-2/files-2.1/b5a604332d3ce6177111de55a992a00e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/kyongh/.gradle/caches/transforms-2/files-2.1/b9b57a2a5ff2c443e7f3f1ba91b1d174/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/kyongh/.gradle/caches/transforms-2/files-2.1/b9b57a2a5ff2c443e7f3f1ba91b1d174/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/kyongh/.gradle/caches/transforms-2/files-2.1/b3a6f1378eb986e2c4e314693e79e89e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/kyongh/.gradle/caches/transforms-2/files-2.1/b3a6f1378eb986e2c4e314693e79e89e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/kyongh/.gradle/caches/transforms-2/files-2.1/5f8890437dcda2e68e51ba4c89692704/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/kyongh/.gradle/caches/transforms-2/files-2.1/5f8890437dcda2e68e51ba4c89692704/AndroidManifest.xml:20:5-44
+INJECTED from /Users/kyongh/A6_P1_Kim_YongHwan/app/src/main/AndroidManifest.xml
+INJECTED from /Users/kyongh/A6_P1_Kim_YongHwan/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/kyongh/A6_P1_Kim_YongHwan/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kyongh/A6_P1_Kim_YongHwan/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kyongh/A6_P1_Kim_YongHwan/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/kyongh/A6_P1_Kim_YongHwan/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kyongh/A6_P1_Kim_YongHwan/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kyongh/A6_P1_Kim_YongHwan/app/src/main/AndroidManifest.xml

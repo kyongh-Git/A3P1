@@ -1,0 +1,4 @@
+#Mon Nov 18 22:14:50 CST 2019
+base.0=/Users/kyongh/A6_P1_Kim_YongHwan/app/build/intermediates/transforms/dexMerger/debug/8
+path.0=classes.dex
+renamed.0=classes.dex
